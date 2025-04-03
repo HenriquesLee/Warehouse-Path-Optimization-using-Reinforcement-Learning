@@ -28,6 +28,4 @@ The warehouse is modeled as a **grid-based environment**, where:
 ## 📜 License  
 This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for more details.  
 
----
 
-Does this structure work for you, or would you like me to refine any sections further? 🚀
